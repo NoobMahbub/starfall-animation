@@ -1,0 +1,29 @@
+{
+  "name": "starfall-animation",
+  "version": "1.0.0",
+  "description": "A starfall animation package for both React and vanilla JavaScript",
+  "main": "lib/index.js",
+  "types": "lib/index.d.ts",
+  "scripts": {
+    "build": "tsc",
+    "prepare": "npm run build"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NoobMahbub/starfall-animation.git"
+  },
+  "keywords": [],
+  "author": "TechHelpBD <ContactTechHelpBD@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/NoobMahbub/starfall-animation/issues"
+  },
+  "homepage": "https://github.com/NoobMahbub/starfall-animation#readme",
+  "devDependencies": {
+    "typescript": "^5.3.3"
+  },
+  "files": [
+    "lib/**/*"
+  ]
+
+}
