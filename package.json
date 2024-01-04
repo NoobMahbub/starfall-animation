@@ -5,7 +5,7 @@
   "main": "lib/index.js",
   "types": "lib/index.d.ts",
   "scripts": {
-    "build": "tsc",
+    "build": "tsc && copyfiles -u 1 src/**/*.css lib/",
     "prepare": "npm run build"
   },
   "repository": {
@@ -23,7 +23,7 @@
     "typescript": "^5.3.3"
   },
   "files": [
-    "lib/**/*"
+    "lib/**/*",
+    "src/index.css"
   ]
-
 }
