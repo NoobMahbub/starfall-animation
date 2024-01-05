@@ -1,5 +1,5 @@
 const start: number = new Date().getTime();
-
+const starfallDiv: HTMLElement | any = document.getElementById('starfall');
 interface Position {
     x: number;
     y: number;
@@ -59,8 +59,8 @@ const calcDistance = (a: Position, b: Position): number => {
 
 const calcElapsedTime = (start: number, end: number): number => end - start;
 
-const appendElement = (element: HTMLElement) => document.body.appendChild(element);
-const removeElement = (element: HTMLElement, delay: number) => setTimeout(() => document.body.removeChild(element), delay);
+const appendElement = (element: HTMLElement) => starfallDiv?.appendChild(element);
+const removeElement = (element: HTMLElement, delay: number) => setTimeout(() => starfallDiv?.removeChild(element), delay);
 
 const createStar = (position: Position) => {
     const star: HTMLElement = document.createElement("span"),
@@ -148,10 +148,10 @@ const handleOnMove = (e: any) => {
     updateLastMousePosition(mousePosition);
 }
 
-window.onmousemove = (e: MouseEvent) => handleOnMove(e);
+starfallDiv?.addEventListener('mousemove', handleOnMove);
 
-window.ontouchmove = (e: TouchEvent) => handleOnMove(e.touches ? e.touches[0] : e);
+starfallDiv?.addEventListener('touchmove', handleOnMove);
 
 
-document.body.onmouseleave = () => updateLastMousePosition(originPosition);
+starfallDiv?.addEventListener('mouseleave', () => updateLastMousePosition(originPosition));
 
