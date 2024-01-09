@@ -5,7 +5,7 @@
   "main": "lib/index.js",
   "types": "lib/index.d.ts",
   "scripts": {
-    "build": "tsc && copyfiles -u 1 src/**/*.css lib/",
+    "build": "tsc",
     "prepare": "npm run build"
   },
   "repository": {
@@ -24,6 +24,9 @@
   },
   "files": [
     "lib/**/*",
-    "src/index.css"
-  ]
+    "./style.css"
+  ],
+  "publishConfig": {
+    "registry": "https://r.privjs.com"
+  }
 }

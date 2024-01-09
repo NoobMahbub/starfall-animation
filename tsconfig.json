@@ -1,15 +1,19 @@
 {
-    "compilerOptions": {
-      "target": "es5",  // Adjust target if needed
-      "module": "CommonJS",
-      "declaration": true,
-      "outDir": "./lib",
-      "strict": true,
-      "esModuleInterop": true,
-      "skipLibCheck": true,
-      "forceConsistentCasingInFileNames": true
-    },
-    "include": ["src"],
-    "exclude": ["node_modules", "**/__tests__/*"]
-  }
-  
+  "compilerOptions": {
+    "target": "ES6", // Adjust target if needed
+    "module": "ES6",
+    "declaration": true,
+    "outDir": "./lib",
+    "strict": true,
+    "esModuleInterop": true,
+    "skipLibCheck": true,
+    "forceConsistentCasingInFileNames": true
+  },
+  "include": [
+    "index.ts"
+  ],
+  "exclude": [
+    "node_modules",
+    "**/__tests__/*"
+  ]
+}
