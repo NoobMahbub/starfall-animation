@@ -1,7 +1,7 @@
 {
   "name": "starfall-animation",
   "version": "1.0.0",
-  "description": "A starfall animation package for both React and vanilla JavaScript",
+  "description": "Animation package like popular image editor Canva for HTML, VanillaJS, React and Typescript Projects",
   "main": "lib/index.js",
   "types": "lib/index.d.ts",
   "scripts": {
