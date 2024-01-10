@@ -1,13 +1,13 @@
 # **starfall-animation**
 
- A simple animation package like popular image editor [Canva](https://canva.com)
+ A simple animation package like popular image editor [Canva](https://canva.com) <br>
  Usable in HTML, VanillaJS, React and Typescript Projects.
 
 ## Demo Video
 
 https://github.com/NoobMahbub/starfall-animation/assets/63844626/10f9c6d7-64b9-47ef-b5d5-f25c76e1c784
 
-starfall-animation is simillar to popular image editor website Canva's Starfall Animation.
+starfall-animation is simillar to popular image editor website Canva's Starfall Animation. <br>
 You can use this package on HTML, VanillaJS, React and Typescript Projects by following our documentation from below.
 
 ## Documentation
@@ -40,7 +40,7 @@ yarn add starfall-animation
 
 ### How to use starfall-animation on HTML/CSS/JS projects?
 
-Wait you can't use starfall-animation directly on HTML/CSS/JS projects.
+Wait you can't use starfall-animation directly on HTML/CSS/JS projects. <br>
 You need to create a Vanilla project using this command ```npm create vite@latest``` 
 ### HTML-VanillaJS-Example
 #### index.html 
@@ -74,16 +74,22 @@ You need to create a Vanilla project using this command ```npm create vite@lates
 
 ### HTML-VanillaJS-Example-Explanation
 
-In this example, used ```vite``` to create a vanilla project.
-Installed the starfall-animation package using ```npm i starfall-animation```
-After that, we created a div with starfall id because our package depends on this id and work with only this id.
-Then we added ```<script type="module">
+In this example, used ```vite``` to create a vanilla project.<br>
+Installed the starfall-animation package using ```npm i starfall-animation```<br>
+After that, we created a div with starfall id because our package depends on this id and work with only this id. <br>
+Then we added: 
+  ```
+  <script type="module"> 
 
     import { starfall } from "starfall-animation";
     import 'starfall-animation/style.css';
     starfall();
 
-  ```</script>``` before ```</body>``` tag of our ```index.html``` and imported necessary resources from our package.
+  </script>
+
+  ```
+  
+before ```</body>``` tag of our ```index.html``` and imported necessary resources from our package. <br>
 Then we called ```starfall()``` function and voilla it works like a charm.
 
 
@@ -119,14 +125,14 @@ export default App
 
 ```
 
-Here I am calling starfall() function inside useEffect() 
-And created a div using starfall id to inject the styles inside it.
-Our package depends on this id and work with only this id.
+Here I am calling starfall() function inside useEffect() <br>
+And created a div using starfall id to inject the styles inside it. <br>
+Our package depends on this id and work with only this id. <br>
 
 ### Customize-Styles
 
-To add your custom style you need to comment out default style which you have imported 
-```<!-- import 'starfall-animation/style.css' -->```
+To add your custom style you need to comment out default style which you have imported <br>
+```<!-- import 'starfall-animation/style.css' -->``` <br>
 
 Then add below ```style.css``` to your index.html/App.jsx/App.tsx and change the css color or other properties as you wish 
 #### style.css
@@ -215,7 +221,9 @@ Then add below ```style.css``` to your index.html/App.jsx/App.tsx and change the
 
 # Contributions
 
-If you want to contribute to this project,fork the [repository](https://github.com/NoobMahbub/starfall-animation) and clone it to your local machine. Commit your changes and push your changes to your forked repository. Finally, open a pull request with a detailed description of your changes. I highly appreciate any contributions.
+If you want to contribute to this project,fork the [repository](https://github.com/NoobMahbub/starfall-animation) and clone it to your local machine. <br>
+Commit your changes and push your changes to your forked repository. <br>
+Finally, open a pull request with a detailed description of your changes. I highly appreciate any contributions.
 
 Special thanks to Hyperplexed who indirectly contributed on this project.
 
@@ -225,7 +233,7 @@ If you are facing any problem feel free to share [here](https://github.com/NoobM
 
 # Our Community
 
-You can also post your problems in our community for any kind of support
+You can also post your problems in our community for any kind of support 👨‍💻<br>
 
 TechHelpBD is one of the best technology based knowledge sharing Community <br>
 ► Like Our Facebook Page=>https://facebook.com/TechHelpBD <br>
@@ -244,5 +252,5 @@ We recommend you to post your problems on our Facebook group and Github repo iss
 
 # Hire Me
 
-Fiverr: https://cutt.ly/owHcCvkR
+❒ Fiverr: https://cutt.ly/owHcCvkR
 
