@@ -1,6 +1,6 @@
 # **starfall-animation**
 
- A simple animation package like popular image editor [Canva](https://canva.com) <br>
+ A simple animation package like popular image editor [Canva's](https://canva.com) starfall animation <br>
  Usable in HTML, VanillaJS, React and Typescript Projects.
 
 ## Demo Video
