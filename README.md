@@ -8,8 +8,9 @@
 https://github.com/NoobMahbub/starfall-animation/assets/63844626/10f9c6d7-64b9-47ef-b5d5-f25c76e1c784
 
 starfall-animation is simillar to popular image editor website Canva's Starfall Animation. <br>
-You can use this package on HTML, VanillaJS, React and Typescript Projects by following our documentation from below.
+You can use this package on HTML, VanillaJS, React and Typescript Projects by following our documentation from below.<br>
 
+This package is fully customizable that means you can change any style as you want. You can also use it with CSS framework like Tailwind/Bootstrap.
 ## Documentation
 
 - [Installation](#installation)
