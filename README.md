@@ -2,11 +2,7 @@
 
 ## Animation package like popular image editor Canva for HTML, VanillaJS, React and Typescript Projects
 
-
-
 https://github.com/NoobMahbub/starfall-animation/assets/63844626/10f9c6d7-64b9-47ef-b5d5-f25c76e1c784
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/R6Ai9tFk5YY?si=rOK-Vb3A9o2SBsQD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 starfall-animation is simillar to popular image editor website Canva's Starfall Animation.
 You can use this package on HTML, VanillaJS, React and Typescript Projects by following our documentation from below.
