@@ -1,6 +1,6 @@
 {
   "name": "starfall-animation",
-  "version": "1.0.2",
+  "version": "1.0.6",
   "description": "Animation package like popular image editor Canva for HTML, VanillaJS, React and Typescript Projects",
   "main": "lib/index.js",
   "types": "lib/index.d.ts",
@@ -12,7 +12,22 @@
     "type": "git",
     "url": "git+https://github.com/NoobMahbub/starfall-animation.git"
   },
-  "keywords": [],
+  "keywords": [
+    "starfall animation",
+    "animation npm react",
+    "npm animation library",
+    "star animation npm",
+    "starfall animation npm",
+    "canva star animation",
+    "animation",
+    "javascript animation",
+    "react animation",
+    "typescript animation",
+    "canva",
+    "falling stars animation",
+    "typescript animation library",
+    "customizable animation"
+  ],
   "author": "TechHelpBD <ContactTechHelpBD@gmail.com>",
   "license": "MIT",
   "bugs": {
@@ -26,5 +41,4 @@
     "lib/**/*",
     "./style.css"
   ]
-
 }

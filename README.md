@@ -1,6 +1,9 @@
-﻿# **starfall-animation**
+# **starfall-animation**
 
-## Animation package like popular image editor Canva for HTML, VanillaJS, React and Typescript Projects
+ A simple animation package like popular image editor [Canva](https://canva.com)
+ Usable in HTML, VanillaJS, React and Typescript Projects.
+
+## Demo Video
 
 https://github.com/NoobMahbub/starfall-animation/assets/63844626/10f9c6d7-64b9-47ef-b5d5-f25c76e1c784
 
@@ -10,7 +13,6 @@ You can use this package on HTML, VanillaJS, React and Typescript Projects by fo
 ## Documentation
 
 - [Installation](#installation)
-- [Introduction](#introduction)
 - [Usage](#usage)
   - [HTML/VanillaJS Example](#HTML-VanillaJS-Example)
   - [React/Typescript Example](#React-Typescript-Example)
@@ -18,7 +20,8 @@ You can use this package on HTML, VanillaJS, React and Typescript Projects by fo
 - [Contributions](#Contributions)
 - [Issues](#Issues)
 - [Our Community](#Our-Community)
-   
+- [Support Me](#Support-Me)
+- [Hire Me](#Hire-Me)  
 
 
 ### Installation
@@ -80,7 +83,7 @@ Then we added ```<script type="module">
     import 'starfall-animation/style.css';
     starfall();
 
-  </script>``` before ```</body>``` tag of our ```index.html``` and imported necessary resources from our package.
+  ```</script>``` before ```</body>``` tag of our ```index.html``` and imported necessary resources from our package.
 Then we called ```starfall()``` function and voilla it works like a charm.
 
 
@@ -231,5 +234,15 @@ TechHelpBD is one of the best technology based knowledge sharing Community <br>
 ► Join Our Discord Server=>https://discord.gg/FFyVXZze4F <br>
 ► Join Our Whatsapp Group=>https://chat.whatsapp.com/KsnXhnqsG9g3lxXE6nMheE <br>
 ► Subscribe Our YouTube Channel=>https://youtube.com/TechHelpBangladesh <br>
+🌐Our Official Website: https://TechHelpBD.com <br>
 
 We recommend you to post your problems on our Facebook group and Github repo issues section first to get early response.
+
+# Support Me
+
+☕ Buy Me a Coffee: https://buymeacoffee.com/TechHelpBD 
+
+# Hire Me
+
+Fiverr: https://cutt.ly/owHcCvkR
+
