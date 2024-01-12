@@ -5,8 +5,7 @@
 
 ## Demo Video
 
-Click on below image to watch the video 👇
-[![Demo Video](https://img.youtube.com/vi/R6Ai9tFk5YY/maxresdefault.jpg)](https://youtu.be/R6Ai9tFk5YY?si=Loej7WB2ANKw2Nzx)
+https://github.com/NoobMahbub/starfall-animation/assets/63844626/10f9c6d7-64b9-47ef-b5d5-f25c76e1c784
 
 starfall-animation is simillar to popular image editor website Canva's Starfall Animation. <br>
 You can use this package on HTML, VanillaJS, React and Typescript Projects by following our documentation from below.<br>
