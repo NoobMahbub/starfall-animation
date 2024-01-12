@@ -45,7 +45,7 @@ Wait you can't use starfall-animation directly on HTML/CSS/JS projects. <br>
 You need to create a Vanilla project using this command ```npm create vite@latest``` 
 ### HTML-VanillaJS-Example
 #### index.html 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 
@@ -79,7 +79,7 @@ In this example, used ```vite``` to create a vanilla project.<br>
 Installed the starfall-animation package using ```npm i starfall-animation```<br>
 After that, we created a div with starfall id because our package depends on this id and work with only this id. <br>
 Then we added: 
-  ```
+  ```html
   <script type="module"> 
 
     import { starfall } from "starfall-animation";
@@ -97,7 +97,7 @@ Then we called ```starfall()``` function and voilla it works like a charm.
 ### React-Typescript-Example
 Make sure to remove ```<React.StrictMode>``` from main.jsx otherwise this will render 2 times or double stars 
 #### ```App.jsx or App.tsx```
-```
+```jsx
 import { useEffect } from 'react'
 import { starfall } from 'starfall-animation'
 import 'starfall-animation/style.css'
@@ -137,7 +137,7 @@ To add your custom style you need to comment out default style which you have im
 
 Then add below ```style.css``` to your index.html/App.jsx/App.tsx and change the css color or other properties as you wish 
 #### style.css
-```
+```css
 #starfall {
     --glow-rgb: 239 42 201;
 
@@ -256,5 +256,5 @@ We recommend you to post your problems on our Facebook group and Github repo iss
 # Hire Me
 
 ❒ Fiverr: https://cutt.ly/owHcCvkR <br>
-❒ UpWork: https://www.upwork.com/freelancers/~0165010699ff14d094
+❒ UpWork: https://upwork.com/freelancers/~0165010699ff14d094
 
