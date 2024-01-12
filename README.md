@@ -249,11 +249,12 @@ We recommend you to post your problems on our Facebook group and Github repo iss
 
 # Support Me
 
-☕ Buy Me a Coffee: https://buymeacoffee.com/TechHelpBD 
+☕ Buy Me a Coffee: https://buymeacoffee.com/MahbubDev
 
 <a href="https://www.producthunt.com/posts/starfall-animation?utm_source=badge-featured&utm_medium=badge&utm_souce=badge-starfall&#0045;animation" target="_blank"><img src="https://api.producthunt.com/widgets/embed-image/v1/featured.svg?post_id=434244&theme=light" alt="starfall&#0045;animation - NPM&#0032;Package&#0032;like&#0032;popular&#0032;editor&#0032;Canva&#0039;s&#0032;starfall&#0032;animation | Product Hunt" style="width: 250px; height: 54px;" width="250" height="54" /></a>
 
 # Hire Me
 
 ❒ Fiverr: https://cutt.ly/owHcCvkR
+❒ UpWork: https://www.upwork.com/freelancers/~0165010699ff14d094
 
