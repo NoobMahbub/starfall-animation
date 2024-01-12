@@ -43,7 +43,7 @@ yarn add starfall-animation
 
 Wait you can't use starfall-animation directly on HTML/CSS/JS projects. <br>
 You need to create a Vanilla project using this command ```npm create vite@latest``` 
-### HTML/VanillaJS Example
+### HTML-VanillaJS Example
 #### index.html 
 ```html
 <!DOCTYPE html>
@@ -73,7 +73,7 @@ You need to create a Vanilla project using this command ```npm create vite@lates
 </html>
 ```
 
-### HTML/VanillaJS Example Explanation
+### HTML VanillaJS Example Explanation
 
 In this example, used ```vite``` to create a vanilla project.<br>
 Installed the starfall-animation package using ```npm i starfall-animation```<br>
@@ -94,7 +94,7 @@ before ```</body>``` tag of our ```index.html``` and imported necessary resource
 Then we called ```starfall()``` function and voilla it works like a charm.
 
 
-### React/Typescript Example
+### React-Typescript Example
 Make sure to remove ```<React.StrictMode>``` from main.jsx otherwise this will render 2 times or double stars 
 #### ```App.jsx or App.tsx```
 ```jsx
