@@ -15,8 +15,8 @@ This package is fully customizable that means you can change any style as you wa
 
 - [Installation](#installation)
 - [Usage](#usage)
-  - [HTML/VanillaJS Example](#HTML-VanillaJS-Example)
-  - [React/Typescript Example](#React/Typescript-Example)
+  - [HTML/VanillaJS Example](#HTML-or-VanillaJS-Example)
+  - [React/Typescript Example](#React-or-Typescript-Example)
   - [Customize Styles](#Customize-Styles)
 - [Contributions](#Contributions)
 - [Issues](#Issues)
@@ -43,7 +43,7 @@ yarn add starfall-animation
 
 Wait you can't use starfall-animation directly on HTML/CSS/JS projects. <br>
 You need to create a Vanilla project using this command ```npm create vite@latest``` 
-### HTML-VanillaJS Example
+### HTML or VanillaJS Example
 #### index.html 
 ```html
 <!DOCTYPE html>
@@ -94,7 +94,7 @@ before ```</body>``` tag of our ```index.html``` and imported necessary resource
 Then we called ```starfall()``` function and voilla it works like a charm.
 
 
-### React/Typescript Example
+### React or Typescript Example
 Make sure to remove ```<React.StrictMode>``` from main.jsx otherwise this will render 2 times or double stars 
 #### ```App.jsx or App.tsx```
 ```jsx
