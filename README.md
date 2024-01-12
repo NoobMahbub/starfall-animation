@@ -15,8 +15,8 @@ This package is fully customizable that means you can change any style as you wa
 
 - [Installation](#installation)
 - [Usage](#usage)
-  - [HTML/VanillaJS Example](#HTML/VanillaJS-Example)
-  - [React/Typescript Example](#React/Typescript-Example)
+  - [HTML/VanillaJS Example](#HTML-VanillaJS-Example)
+  - [React/Typescript Example](#React-Typescript-Example)
   - [Customize Styles](#Customize-Styles)
 - [Contributions](#Contributions)
 - [Issues](#Issues)
