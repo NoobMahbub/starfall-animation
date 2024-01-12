@@ -43,7 +43,7 @@ yarn add starfall-animation
 
 Wait you can't use starfall-animation directly on HTML/CSS/JS projects. <br>
 You need to create a Vanilla project using this command ```npm create vite@latest``` 
-### HTML-VanillaJS-Example
+### HTML VanillaJS Example
 #### index.html 
 ```html
 <!DOCTYPE html>
@@ -94,7 +94,7 @@ before ```</body>``` tag of our ```index.html``` and imported necessary resource
 Then we called ```starfall()``` function and voilla it works like a charm.
 
 
-### React-Typescript-Example
+### React Typescript Example
 Make sure to remove ```<React.StrictMode>``` from main.jsx otherwise this will render 2 times or double stars 
 #### ```App.jsx or App.tsx```
 ```jsx
@@ -130,7 +130,7 @@ Here I am calling starfall() function inside useEffect() <br>
 And created a div using starfall id to inject the styles inside it. <br>
 Our package depends on this id and work with only this id. <br>
 
-### Customize-Styles
+### Customize Styles
 
 To add your custom style you need to comment out default style which you have imported <br>
 ```<!-- import 'starfall-animation/style.css' -->``` <br>
