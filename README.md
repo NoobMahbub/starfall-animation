@@ -255,6 +255,6 @@ We recommend you to post your problems on our Facebook group and Github repo iss
 
 # Hire Me
 
-❒ Fiverr: https://cutt.ly/owHcCvkR
+❒ Fiverr: https://cutt.ly/owHcCvkR <br>
 ❒ UpWork: https://www.upwork.com/freelancers/~0165010699ff14d094
 
